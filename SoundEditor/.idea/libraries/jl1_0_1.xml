@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="jl1.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/lib/jl1.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jlayer-1.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/mp3spi-1.9.5.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/tritonus-share-0.3.7-2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/vorbisspi-1.0.3.3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jorbis-0.0.17.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jflac-codec-1.5.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/dist/lib/jl1.0.1.jar!/javazoom/jl/converter" />
+    </SOURCES>
+  </library>
+</component>

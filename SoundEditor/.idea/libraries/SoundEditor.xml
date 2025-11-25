@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SoundEditor">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/SoundEditor.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
